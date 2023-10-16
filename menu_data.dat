@@ -19,6 +19,8 @@
 
 # Philip Kendall <philip-fuse@shadowmagic.org.uk>
 
+_Hard reset..., Item,, menu_machine_reset,, 1
+
 _File, Branch
 File/_Open..., Item, F3
 File/_Save Snapshot..., Item, F2
@@ -505,3 +507,5 @@ Media/IDE/ZXMMC/_Eject, Item,, menu_media_ide_eject,, 9
 _Help, Branch
 Help/_Keyboard..., Item
 Help/_About..., Item
+
+_Exit..., Item,, menu_file_exit
