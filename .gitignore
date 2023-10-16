@@ -1,0 +1,3 @@
+# Project exclude paths
+/autom4te.cache/
+/build/
